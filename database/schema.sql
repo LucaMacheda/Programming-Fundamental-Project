@@ -1,5 +1,5 @@
-CREATE DATABASE game_project;
 USE game_project;
+SELECT * FROM players;
 
 CREATE TABLE players (
     id INT AUTO_INCREMENT PRIMARY KEY,
