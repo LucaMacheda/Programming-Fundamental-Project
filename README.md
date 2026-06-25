@@ -65,13 +65,5 @@ Swing window for displaying the current player's statistics.
 ### TopScorersFrame
 Swing window for displaying Top 5 scorers using JTable.
 
-## Screenshots
-Add your screenshots here:
-- Login Window
-- Main Menu Window
-- Game Window
-- Statistics Window
-- Top 5 Scorers Window
-
 ## GitHub Repository Link
 https://github.com/LucaMacheda/Programming-Fundamental-Project.git
